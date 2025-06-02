@@ -1,0 +1,70 @@
+/* style.css */
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", sans-serif;
+  background-color: #fff;
+  color: #000;
+}
+
+header {
+  background-color: #1e1e1e;
+  padding: 10px 20px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: flex-start;
+  gap: 30px;
+  margin: 0;
+  padding: 0;
+}
+
+nav a {
+  color: orange;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.hero-section {
+  text-align: center;
+  position: relative;
+  background: linear-gradient(to right, white 100%);
+  padding: 20px;
+}
+
+.download-banner {
+  background-color: black;
+  color: #ff0;
+  display: inline-block;
+  font-size: 24px;
+  padding: 10px 20px;
+  margin: 20px auto;
+  font-weight: bold;
+}
+
+.title h1 {
+  font-size: 28px;
+  margin: 10px 0;
+}
+
+.character-group img {
+  max-width: 110%;
+  height: auto;
+}
+
+.bottom-text {
+  background-color: black;
+  color: cyan;
+  font-size: 19px;
+  padding: 10px;
+  margin-top: 20px;
+  font-weight: bold;
+}
+.Shoukai {
+  font-size: 20px;
+  padding: 20px;
+  margin: 20px;
+  font-weight: bolder;
+}
